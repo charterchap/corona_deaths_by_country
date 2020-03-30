@@ -399,7 +399,7 @@ for country in countries:
 
 ax.set_xlabel("Days Since First Reported Death")
 ax.set_ylabel("Number of Deaths per 1 Million people (Non Cumulative)")
-ax.set_title("Corona virus deaths by county")
+ax.set_title("Corona virus deaths by country")
 
 
 plt.legend()
